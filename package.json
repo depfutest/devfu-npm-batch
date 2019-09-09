@@ -7,10 +7,10 @@
     "test": "echo '==> Running tests .....'"
   },
   "dependencies": {
-    "jquery": "^2.1.2",
+    "jquery": "^3.3.1",
     "opencolor": "^0.2.0"
   },
   "devDependencies": {
-    "growl": "1.9.2"
+    "growl": "1.10.5"
   }
 }
