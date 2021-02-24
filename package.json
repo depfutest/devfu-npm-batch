@@ -12,6 +12,6 @@
     "opencolor": "^0.2.0"
   },
   "devDependencies": {
-    "growl": "1.9.2"
+    "growl": "1.10.5"
   }
 }
